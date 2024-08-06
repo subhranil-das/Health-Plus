@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Health-Plus/static/css/main.36ee70dd.css",
+    "main.js": "/Health-Plus/static/js/main.be05e969.js",
+    "static/media/doctor.png": "/Health-Plus/static/media/doctor.8fff30a7d49ec9f15a88.png",
+    "static/media/Blood Test.png": "/Health-Plus/static/media/Blood Test.fa5233df443ef8ea5b59.png",
+    "static/media/mainlogo2.png": "/Health-Plus/static/media/mainlogo2.e1aacf2c31bb7812ba20.png",
+    "static/media/Medical App.png": "/Health-Plus/static/media/Medical App.90b89440a6d02d6d95d6.png",
+    "static/media/Doctor.png": "/Health-Plus/static/media/Doctor.82d0f803bbc7661248ab.png",
+    "static/media/Products 1.png": "/Health-Plus/static/media/Products 1.237835f1f67bca0b612a.png",
+    "static/media/Gumela Regular.otf": "/Health-Plus/static/media/Gumela Regular.0ae83c6988a536716eb4.otf",
+    "static/media/med1.png": "/Health-Plus/static/media/med1.a819d6d97296008bd9c0.png",
+    "static/media/Vector2.png": "/Health-Plus/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "index.html": "/Health-Plus/index.html",
+    "main.36ee70dd.css.map": "/Health-Plus/static/css/main.36ee70dd.css.map",
+    "main.be05e969.js.map": "/Health-Plus/static/js/main.be05e969.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36ee70dd.css",
+    "static/js/main.be05e969.js"
+  ]
+}
